@@ -4,7 +4,7 @@
 A web page that uses the GET method to send and store values to the database . <br>
 database using is phpMyAdmin.
 
-## Software and languages used:
+## Requirements :
 - Visual Studio Code
 - HTML 
 - CSS
