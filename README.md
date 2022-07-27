@@ -28,9 +28,11 @@ It helps users to submit the bookmark the result. GET is better for the data whi
 - Before pressing the send button :<br>
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/108204114/181359634-a7638813-dfb4-435e-96d3-d345b8e2b2e3.png">
 - After pressing the send button :<br>
+
+
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/108204114/181363762-e5e35d55-8c89-48bb-aaf9-ddc32dc6aa65.png">
 
--The sent values will be saved to the database
+- The sent values will be saved to the database
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/108204114/181361579-4d156295-7573-4131-9e26-88f734d074e8.png">
 
 
