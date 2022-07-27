@@ -1,7 +1,7 @@
 # Web-page-to-store-sensor-value-in-database
 
 ## This repository offers:
-A web page that uses the GET function to send and store values to the database .
+A web page that uses the GET method to send and store values to the database .
 database using phpMyAdmin.
 
 ## Software and languages used:
@@ -25,9 +25,19 @@ It helps users to submit the bookmark the result. GET is better for the data whi
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/108204114/181358896-5e46c31b-a226-4a49-ac77-cf1c62b296a6.png">
 
 -Let's write a specific number and send it, focus here on the URL link
+### Before pressing the send button :
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/108204114/181359634-a7638813-dfb4-435e-96d3-d345b8e2b2e3.png">
-<img width="658" alt="image" src="https://user-images.githubusercontent.com/108204114/181361084-22de468d-b7a3-4f22-93a1-903a565dd9d1.png">
+### After pressing the send button :
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/108204114/181363762-e5e35d55-8c89-48bb-aaf9-ddc32dc6aa65.png">
 
 -The sent values will be saved to the database
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/108204114/181361579-4d156295-7573-4131-9e26-88f734d074e8.png">
+
+
+#### References:<br>
+https://www.guru99.com/difference-get-post-http.html <br>
+https://youtu.be/UzwyDdX3TS8 <br>
+https://youtu.be/P7GekUl2_NU <br>
+
+
 
