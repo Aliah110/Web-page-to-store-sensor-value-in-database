@@ -2,7 +2,7 @@
 
 ## This repository offers:
 A web page that uses the GET method to send and store values to the database . <br>
-database using is phpMyAdmin.
+
 
 ## Requirements :
 - Visual Studio Code
